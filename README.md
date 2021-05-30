@@ -1,5 +1,5 @@
 # SP_Utils
-Utilities used during the second assignment of PSI.
+Utilities used during the second assignment SP course.
 # Datasets
 These contains the artificial datasets used in the context of the server
 # Client Server
